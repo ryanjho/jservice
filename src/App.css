@@ -1,0 +1,25 @@
+* {
+  font-family: Arial
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 30px;
+}
+
+.score-board {
+  padding: 30px;
+  background-color: orange;
+}
+
+.question-component {
+  padding: 30px;
+  background-color: yellow;
+}
+
+.answer {
+  padding: 30px;
+  background-color: green;
+}
